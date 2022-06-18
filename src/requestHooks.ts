@@ -1,0 +1,1 @@
+// module.exports.requestHooks = Array<(context: RequestHook) => void>;
