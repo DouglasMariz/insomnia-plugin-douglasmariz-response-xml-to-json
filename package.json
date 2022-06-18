@@ -1,10 +1,18 @@
 {
   "name": "insomnia-plugin-douglasmariz-response-xml-to-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "description": "Transforms XML responses into Json",
   "author": "Douglas Thyago Mariz de Assis",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DouglasMariz/insomnia-plugin-douglasmariz-response-xml-to-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DouglasMariz/insomnia-plugin-douglasmariz-response-xml-to-json/issues"
+  },
+  "homepage": "https://github.com/DouglasMariz/insomnia-plugin-douglasmariz-response-xml-to-json",
   "scripts": {
     "build": "tsc",
     "prepublish": "yarn build"
