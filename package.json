@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-douglasmariz-response-xml-to-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "description": "Transforms XML responses into Json",
   "author": "Douglas Thyago Mariz de Assis",
