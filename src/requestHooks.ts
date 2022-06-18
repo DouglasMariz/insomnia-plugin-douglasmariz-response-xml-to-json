@@ -1,1 +1,8 @@
-// module.exports.requestHooks = Array<(context: RequestHook) => void>;
+import {RequestHook} from "./@types/Hook/RequestHook";
+
+export default async ({request, store}: RequestHook) => {
+    const xml = request.getHeader('xml');
+    if (xml === 'true') {
+        await store.setItem('xml', xml);
+    }
+};

@@ -12,6 +12,11 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.0.0.tgz#67c7b724e1bcdd7a8821ce0d5ee184d3b4dd525a"
   integrity sha512-cHlGmko4gWLVI27cGJntjs/Sj8th9aYwplmZFwmmgYQQvL5NUsgVJG7OddLvNfLqYS31KFN0s3qlaD9qCaxACA==
 
+"@types/string@^0.0.31":
+  version "0.0.31"
+  resolved "https://registry.yarnpkg.com/@types/string/-/string-0.0.31.tgz#555b5da140e0b9b91d050806f2540347536dbaea"
+  integrity sha512-ryPUSYQI9r/11qGix8GGd4onvOzSy0e9k/vpPzzGym+kzll5X/M6KBSR9xYEWjNWKId1kYecs0ruY+b09gPFcw==
+
 lodash@^4.17.21:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"

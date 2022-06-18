@@ -1,5 +1,13 @@
 # Insomnia Plugin DouglasMariz Response Xml To Json
 
+<p align="center">
+<img alt="NPM Version" src="https://img.shields.io/npm/v/insomnia-plugin-douglasmariz-response-xml-to-json.svg">
+  <a href="https://www.linkedin.com/in/douglasmariz/">
+    <img alt="Made by Douglas Mariz" src="https://img.shields.io/badge/made%20by-DouglasMariz-%2304D361">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
+
 This plugin transforms the XML response into JSON.
 
 ### 🚀 Installation
@@ -7,6 +15,14 @@ This plugin transforms the XML response into JSON.
 - Access the Application / Preferences menu and then select the Plugins tab, enter the plugin name `insomnia-plugin-douglasmariz-response-xml-to-json` and click Install Plugin.
 
 - After installing the plugin click on enable
+
+## How to Use It
+___
+
+Set a header property with values => "xml: true".
+As in the example below.
+
+![Header Example](/src/resources/images/sample1.png)
 
 ### 🤝 Contributing
 
@@ -24,7 +40,7 @@ Give a ⭐️ if this project helped you!
 
 ### License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+This project is under the MIT license. See the [LICENSE](LICENSE) for details.
 
 ---
 
